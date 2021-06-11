@@ -14,14 +14,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Kanahiro/ts-template.git"
+        "url": "git+https://github.com/Kanahiro/jma-utils.git"
     },
     "author": "Kanahiro Iguchi <kanahiro.iguchi@gmail.com> (https://github.com/Kanahiro)",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/Kanahiro/ts-template/issues"
+        "url": "https://github.com/Kanahiro/jma-utils/issues"
     },
-    "homepage": "https://github.com/Kanahiro/ts-template#readme",
+    "homepage": "https://github.com/Kanahiro/jma-utils#readme",
     "dependencies": {
         "axios": "^0.21.1"
     },
